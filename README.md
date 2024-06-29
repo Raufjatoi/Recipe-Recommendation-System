@@ -53,26 +53,26 @@ We used the [Food.com Recipes and Reviews](https://www.kaggle.com/irkaal/foodcom
     - Use the virtual assistant to get step-by-step cooking instructions, ingredient substitutions, and more.
 
 ## File Structure
-   recipe-recommendation-system/
-   │
-   ├── data/ # Folder containing the recipe datasets
-   │
-   ├── templates/ # HTML templates for the web application
-   │ └── index.html # Home page of the web application
-   │
-   ├── app.py # Main application file
-   │
-   ├── preprocess.py # Script for data preprocessing
-   │
-   ├── recommender.py # Script for the recommendation system
-   │
-   ├── assistant.py # Script for the virtual kitchen assistant
-   │
-   ├── requirements.txt # List of required Python packages
-   │
-   └── README.md # Project documentation
-
-   
+   recipe-recommendation-system/   
+   │   
+   ├── data/ # Folder containing the recipe datasets   
+   │     
+   ├── templates/ # HTML templates for the web application     
+   │ └── index.html # Home page of the web application      
+   │     
+   ├── app.py # Main application file     
+   │      
+   ├── preprocess.py # Script for data preprocessing      
+   │      
+   ├── recommender.py # Script for the recommendation system      
+   │      
+   ├── assistant.py # Script for the virtual kitchen assistant       
+   │      
+   ├── requirements.txt # List of required Python packages      
+   │       
+   └── README.md # Project documentation       
+                
+             
 
 ## Contributing
 We welcome contributions to enhance this project! Here’s how you can contribute:
