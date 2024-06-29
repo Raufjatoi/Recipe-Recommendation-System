@@ -90,6 +90,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The open-source community for their invaluable tools and resources
 
 ## Contact
-If you have any questions or feedback, please reach out to us at [your-email@example.com].
+If you have any questions or feedback, please reach out to us at [raufpokemon00@icloud.com].
 
 Happy Cooking! 🍳🥗🍲
