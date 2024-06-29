@@ -16,7 +16,8 @@ We used the [Food.com Recipes and Reviews](https://www.kaggle.com/irkaal/foodcom
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/recipe-recommendation-system.git
+    git clone https://github.com/Raufjatoi/recipe- 
+    recommendation-system.git
     cd recipe-recommendation-system
     ```
 
@@ -53,4 +54,43 @@ We used the [Food.com Recipes and Reviews](https://www.kaggle.com/irkaal/foodcom
     - Use the virtual assistant to get step-by-step cooking instructions, ingredient substitutions, and more.
 
 ## File Structure
+   recipe-recommendation-system/
+   │
+   ├── data/ # Folder containing the recipe datasets
+   │
+   ├── templates/ # HTML templates for the web application
+   │ └── index.html # Home page of the web application
+   │
+   ├── app.py # Main application file
+   │
+   ├── preprocess.py # Script for data preprocessing
+   │
+   ├── recommender.py # Script for the recommendation system
+   │
+   ├── assistant.py # Script for the virtual kitchen assistant
+   │
+   ├── requirements.txt # List of required Python packages
+   │
+   └── README.md # Project documentation
 
+   
+
+## Contributing
+We welcome contributions to enhance this project! Here’s how you can contribute:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
+5. Create a pull request
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Kaggle for providing the datasets
+- The open-source community for their invaluable tools and resources
+
+## Contact
+If you have any questions or feedback, please reach out to us at [your-email@example.com].
+
+Happy Cooking! 🍳🥗🍲
