@@ -1,0 +1,31 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommendations</title>
+</head>
+<body>
+    <h1>Recommended Recipes</h1>
+    <div id="recommendations">
+        <!-- This div will hold the recommended recipes -->
+    </div>
+    <script>
+        // JavaScript code to fetch and display recommendations
+        // Example: Fetch recommendations via AJAX or directly embed from server-side rendering
+        // Replace with your implementation
+        const recommendations = {{ recommendations }};
+        const recommendationsDiv = document.getElementById('recommendations');
+
+        recommendations.forEach(recipe => {
+            const recipeElement = document.createElement('div');
+            recipeElement.innerHTML = `
+                <h2>${recipe.Name}</h2>
+                <p>${recipe.RecipeIngredientParts}</p>
+            `;
+            recommendationsDiv.appendChild(recipeElement);
+        });
+    </script>
+</body>
+</html>
