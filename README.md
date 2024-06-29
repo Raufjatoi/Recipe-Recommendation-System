@@ -16,9 +16,9 @@ We used the [Food.com Recipes and Reviews](https://www.kaggle.com/irkaal/foodcom
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/Raufjatoi/recipe- 
-    recommendation-system.git
-    cd recipe-recommendation-system
+    git clone https://github.com/Raufjatoi/Recipe-Recommendation-System.git
+    cd Recipe-Recommendation-System
+>>>>>>> bbd79b15b79da7df777a067aabbe831d4ba08472
     ```
 
 2. **Create and activate a virtual environment**
